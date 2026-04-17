@@ -12,6 +12,11 @@
       "name": "starter",
       "source": "./plugins/starter",
       "description": "Example plugin demonstrating the marketplace shape."
+    },
+    {
+      "name": "tiger-style",
+      "source": "./plugins/tiger-style",
+      "description": "Apply TigerBeetle's TigerStyle coding principles (safety, performance, DX) when writing or reviewing code. Language-agnostic with Rust/Java/Kotlin/TypeScript guides."
     }
   ]
 }

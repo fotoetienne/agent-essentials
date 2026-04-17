@@ -21,6 +21,7 @@ Update later with:
 | Plugin | Description |
 | --- | --- |
 | [`starter`](plugins/starter) | Example plugin with a single `hello` skill. Smoke test for the marketplace install. |
+| [`tiger-style`](plugins/tiger-style) | Apply TigerBeetle's TigerStyle coding principles (safety, performance, DX) when writing or reviewing code. Language-agnostic with Rust/Java/Kotlin/TypeScript guides. |
 
 ## Repo layout
 

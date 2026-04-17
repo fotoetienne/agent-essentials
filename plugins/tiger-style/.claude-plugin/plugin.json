@@ -1,0 +1,9 @@
+{
+  "name": "tiger-style",
+  "version": "0.1.0",
+  "description": "Apply TigerBeetle's TigerStyle coding principles (safety, performance, DX) when writing or reviewing code. Language-agnostic with Rust/Java/Kotlin/TypeScript guides.",
+  "author": {
+    "name": "fotoetienne"
+  },
+  "license": "MIT"
+}
