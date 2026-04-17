@@ -1,0 +1,17 @@
+{
+  "name": "agent-essentials",
+  "owner": {
+    "name": "fotoetienne"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code skills, commands, and MCP servers.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "starter",
+      "source": "./plugins/starter",
+      "description": "Example plugin demonstrating the marketplace shape."
+    }
+  ]
+}

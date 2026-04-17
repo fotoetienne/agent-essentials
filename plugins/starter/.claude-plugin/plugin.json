@@ -1,0 +1,9 @@
+{
+  "name": "starter",
+  "version": "0.1.0",
+  "description": "Example plugin with one skill, showing the marketplace structure.",
+  "author": {
+    "name": "fotoetienne"
+  },
+  "license": "MIT"
+}
