@@ -1,6 +1,8 @@
 # tiger-style
 
-Apply [TigerBeetle's TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md) coding principles (safety, performance, developer experience) when writing or reviewing code.
+Apply [TigerBeetle's TigerStyle](https://tigerstyle.dev/) coding principles (safety, performance, developer experience) when writing or reviewing code.
+
+Source: [tigerstyle.dev](https://tigerstyle.dev/) · [TIGER_STYLE.md on GitHub](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 
 ## What it does
 
@@ -47,4 +49,4 @@ From this marketplace:
 
 ## Credit
 
-Principles are TigerBeetle's — see their [TIGER_STYLE.md](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md). This plugin is a structured adaptation for Claude Code, not the original guide.
+Principles are TigerBeetle's — see [tigerstyle.dev](https://tigerstyle.dev/) or the canonical [TIGER_STYLE.md](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md) in the TigerBeetle repo. This plugin is a structured adaptation for Claude Code, not the original guide.
